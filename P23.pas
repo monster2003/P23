@@ -11,7 +11,7 @@ begin
     ReadLn(x);
     ReadLn(y);
     i:=x;
-    days:=1;   //jhy
+    days:=1;   //jhykuyjk
     while i<=y do
     begin
         i:=i+(i*0.1);
